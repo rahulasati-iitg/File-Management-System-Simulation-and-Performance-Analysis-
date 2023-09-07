@@ -1,0 +1,14 @@
+how many files do you want to create?: enter the name of the file1: enter the content of the file1: file xxyco.txt (file_id: 0) has been created
+enter the name of the file2: enter the content of the file2: file sfxrq.txt (file_id: 1) has been created
+enter the name of the file3: enter the content of the file3: file qivtw.txt (file_id: 2) has been created
+enter the name of the file4: enter the content of the file4: file kcdqv.txt (file_id: 3) has been created
+enter the name of the file5: enter the content of the file5: file glegm.txt (file_id: 4) has been created
+enter the name of the file6: enter the content of the file6: file zhvwh.txt (file_id: 5) has been created
+enter the name of the file7: enter the content of the file7: file fyatr.txt (file_id: 6) has been created
+enter the name of the file8: enter the content of the file8: file zkbio.txt (file_id: 7) has been created
+enter the name of the file9: enter the content of the file9: file nkvzr.txt (file_id: 8) has been created
+enter the name of the file10: enter the content of the file10: file kychu.txt (file_id: 9) has been created
+enter the name of the file11: enter the content of the file11: file pzlao.txt (file_id: 10) has been created
+enter the name of the file12: enter the content of the file12: file sfugy.txt (file_id: 11) has been created
+enter the name of the file13: enter the content of the file13: file anjfy.txt (file_id: 12) has been created
+enter the name of the file14: enter the content of the file14: 
